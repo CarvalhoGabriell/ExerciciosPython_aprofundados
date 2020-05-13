@@ -1,0 +1,4 @@
+
+CÓDIGO ANSI -> formato de configurar as cores no terminal que o python tambem reconhece
+
+\033[0;30;41m
